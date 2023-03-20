@@ -27,7 +27,7 @@ public class latihanModul2 {
                 iterator.remove();
 
                 // Menampilkan elemen pada objek Hewan setelah data dihapus
-                System.out.println("Isi objek Hewan setelah penghapusan data: " + Hewan);
+                System.out.println("Objek Hewan setelah penghapusan data: " + Hewan);
             }
         }
     }
